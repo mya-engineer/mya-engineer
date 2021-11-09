@@ -7,7 +7,7 @@ I'm a Software Engineer who would like to know everything about everything!
 This section represents all the technologies I ever worked with (many of them I used in my job experience):
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=Python)
-![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat&logo=Django)
 ![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=Flask&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5)
@@ -20,7 +20,7 @@ This section represents all the technologies I ever worked with (many of them I 
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-black?style=flat&logo=express)
 ![Socket.io](https://img.shields.io/badge/Socket.io-white?style=flat&logo=socketdotio&logoColor=black)
 ![React-Native](https://img.shields.io/badge/React--Native-black?style=flat&logo=react)
-![Expo](https://img.shields.io/badge/Expo-white?style=flat&logo=expo)
+![Expo](https://img.shields.io/badge/Expo-white?style=flat&logo=expo&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=Docker)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku)
 ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git)
