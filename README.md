@@ -4,13 +4,13 @@ I'm a Software Engineer who would like to know everything about everything!
 *But it is difficult to achieve! So 20/80 rule is my grace =)*
 
 ## Technologies
-This section represents all the technologies I ever worked with (many of them I used in my job experience):
+This section represents all the technologies I ever worked with (many of them I used in my job experience).
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat&logo=Django)
 ![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=Flask&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![Semantic-UI](https://img.shields.io/badge/Semantic--UI-white?style=flat&logo=semanticuireact)
