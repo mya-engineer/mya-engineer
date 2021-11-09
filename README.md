@@ -1,6 +1,7 @@
 ## Welcome, Wayfarer! :)
 My name is Michael, glad to welcome in my profile!
-I'm a Software Engineer who would like to know everything about everything! *But it is difficult to achieve! So 20/80 rule is my grace =)*
+I'm a Software Engineer who would like to know everything about everything!
+*But it is difficult to achieve! So 20/80 rule is my grace =)*
 
 ## Technologies
 This section represents all the technologies I ever worked with (many of them I used in my job experience):
@@ -23,7 +24,7 @@ This section represents all the technologies I ever worked with (many of them I 
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=Docker)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=Heroku)
 ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-white?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-white?style=flat&logo=gitlab)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
