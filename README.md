@@ -6,7 +6,7 @@ I'm a Software Engineer who would like to know everything about everything! *But
 This section represents all the technologies I ever worked with (many of them I used in my job experience):
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=Python)
-![Django](https://img.shields.io/badge/Django-darkgreen?style=flat-square&logo=Django)
-![Flask](https://img.shields.io/badge/Flask-white?style=plastic&logo=Flask)
+![Django](https://img.shields.io/badge/Django-darkgreen?style=flat&logo=Django)
+![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=Flask)
 
 ## Stats
