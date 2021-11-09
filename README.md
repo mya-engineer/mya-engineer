@@ -1,6 +1,6 @@
 ## Welcome, Wayfarer! :)
-My name is Michael, glad to welcome in my profile!
-I'm a Software Engineer who would like to know everything about everything!
+My name is Michael, glad to welcome in my profile!<br/>
+I'm a Software Engineer who would like to know everything about everything!<br/>
 *But it is difficult to achieve! So 20/80 rule is my grace =)*
 
 ## Technologies
@@ -27,7 +27,7 @@ This section represents all the technologies I ever worked with (many of them I 
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-white?style=flat&logo=gitlab)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql)
 ![Atlassian-Products](https://img.shields.io/badge/Attlassian%20Products-blue?style=flat&logo=atlassian)
 ![Zabbix](https://img.shields.io/badge/Zabbix-black?style=flat&logo=zabbix)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=grafana)
