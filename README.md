@@ -33,5 +33,6 @@ This section represents all the technologies I ever worked with (many of them I 
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=grafana)
 ![Graylog](https://img.shields.io/badge/Graylog-white?style=flat&logo=graylog)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mya-engineer)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mya-engineer)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mya-engineer)](https://github.com/mya-engineer)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mya-engineer)](https://github.com/mya-engineer)
+
