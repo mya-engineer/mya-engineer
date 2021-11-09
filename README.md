@@ -34,5 +34,5 @@ This section represents all the technologies I ever worked with (many of them I 
 ![Graylog](https://img.shields.io/badge/Graylog-white?style=flat&logo=graylog)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mya-engineer)](https://github.com/mya-engineer)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mya-engineer)](https://github.com/mya-engineer)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mya-engineer&count_private=true&show_icons=true&border_radius=10)](https://github.com/mya-engineer)
 
