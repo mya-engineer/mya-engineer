@@ -4,6 +4,7 @@ I'm a Software Engineer who would like to know everything about everything! *But
 
 ## Technologies
 This section represents all the technologies I ever worked with (many of them I used in my job experience):
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 
