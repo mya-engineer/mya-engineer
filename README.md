@@ -7,6 +7,10 @@ This section represents all the technologies I ever worked with (many of them I 
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=Python)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=Flask)
+![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=Flask&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Semantic-UI](https://img.shields.io/badge/Semantic%20UI-white?style=flat&logo=semanticuireact)
 
 ## Stats
