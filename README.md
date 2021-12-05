@@ -31,10 +31,11 @@ This section represents all the technologies I ever worked with (many of them I 
 ![GitLab](https://img.shields.io/badge/GitLab-white?style=flat&logo=gitlab)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=postgresql)
-![Atlassian-Products](https://img.shields.io/badge/Attlassian%20Products-blue?style=flat&logo=atlassian)
+![Atlassian-Products](https://img.shields.io/badge/Atlassian%20Products-blue?style=flat&logo=atlassian)
 ![Zabbix](https://img.shields.io/badge/Zabbix-black?style=flat&logo=zabbix)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=grafana)
 ![Graylog](https://img.shields.io/badge/Graylog-white?style=flat&logo=graylog)
+![pytest](https://img.shields.io/badge/Pytest-black?style=flat&logo=pytest)
 
 <p align="center">
   <img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mya-engineer&border_radius=5&layout=compact&langs_count=10" align="center"/>
