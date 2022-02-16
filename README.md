@@ -3,6 +3,8 @@ My name is Michael, glad to welcome in my profile!<br/>
 I'm a Software Engineer who would like to know everything about everything!<br/>
 *But it is difficult to achieve! So 20/80 rule is my grace =)*
 
+PS: LEARNING LINUX NOW GITHUB ACTIVITY WILL BE LOW :(
+
 [![Codewars](https://www.codewars.com/users/mya-engineer/badges/small)](https://www.codewars.com/users/mya-engineer)<br/>
 [![dockerhub](https://img.shields.io/badge/dockerhub-black?style=flat&logo=Docker)](https://hub.docker.com/u/myashechka)
 
